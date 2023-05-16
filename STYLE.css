@@ -1,0 +1,83 @@
+
+
+body {
+  background-color: white;
+}
+
+h1{
+color:rgb(255, 26, 224)
+
+;
+clear : both;
+font-family: Arial, sans-serif;
+}
+
+h2{
+color:black;
+clear : both;
+font-family: Arial, sans-serif;
+}
+
+
+button {
+border: none;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}
+
+button {
+  border-radius: 5px;
+}
+
+button {
+  background-color: lightblue;
+}
+button {
+  color: white;
+}
+
+button:hover {
+  background-color: pink;
+}
+
+iframe {
+  margin-top: 50px;
+}
+
+li {
+color: rgb(74, 59, 190);
+font-family: Arial, sans-serif;
+font-size: 20px;
+ margin-top: 50px;
+}
+
+h5 {
+  font-size: 16px;
+font-family: Arial, sans-serif;
+        text-align: justify;
+        margin-right: 70px;
+        line-height: 1.5;
+    }
+h4 {
+  font-size: 16px;
+font-family: Arial, sans-serif;
+        text-align: justify;
+        margin-left: 70px;
+        line-height: 1.5;
+color : black;
+
+
+    }
+
+.home-image {
+  max-width: 70%;
+}
+
+h3 {
+color : rgb(255, 99, 148)
+;
+font-family: Arial, sans-serif;
+}
